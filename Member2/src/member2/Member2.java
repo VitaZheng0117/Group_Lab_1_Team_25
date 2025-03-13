@@ -14,8 +14,8 @@ public class Member2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Hello from Member2!");
         // TODO code application logic here
-        System.out.println("Hello from Memeber2!");
     }
     
 }
